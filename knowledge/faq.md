@@ -49,7 +49,8 @@ Make the animation looping and don't let it transition to another animation
 ---
 
 ### Where can I find the error/output logs for Bedrock?
-`C:\Users\YOUR_USERNAME\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\logs`
+ - Windows 10: `C:\Users\YOUR_USERNAME\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\logs`
+ - Android: `storage/emulated/0/games/com.mojang/logs`
 
 ---
 ### How can I make a completely invisible shadow under the entity, without changing the collision boxe? 
